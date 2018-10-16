@@ -111,6 +111,10 @@
     {
       "class": "artboard",
       "id": "15D23678-F1B2-4476-9CE7-1D3F989BE9CD"
+    },
+    {
+      "class": "oval",
+      "id": "01596FF6-6365-479B-BA27-3E928DBCE434"
     }
   ],
   "name": "Material Design Stickersheet",
